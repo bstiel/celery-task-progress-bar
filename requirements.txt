@@ -1,0 +1,6 @@
+honcho
+celery
+redis
+fastapi
+python-socketio
+uvicorn
